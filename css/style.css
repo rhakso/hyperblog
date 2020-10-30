@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     -webkit-box-sizing: border-box;
@@ -57,4 +57,27 @@ h1{
     text-decoration: none;
     background: #3299bb;
 
+} */
+
+body
+{
+    color: #333;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
