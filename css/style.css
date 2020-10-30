@@ -38,7 +38,7 @@ h1{
 .paginacion ul .active a{
     background: #ce7f88;
 }
-.paginacion ul .disabled{
+/* .paginacion ul .disabled{
     background: #c8c8c8;
     display: inline-block;
     padding: 15px 25px;
@@ -57,4 +57,4 @@ h1{
     text-decoration: none;
     background: #3299bb;
 
-}
+} */
