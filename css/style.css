@@ -31,14 +31,14 @@ h1{
 .articulos ul li{
     padding-bottom: 10px;
 }
-/* .paginacion ul li{
+.paginacion ul li{
     display: inline;
     margin-right: 10px;
 }
 .paginacion ul .active a{
     background: #ce7f88;
-} */
-/* .paginacion ul .disabled{
+}
+.paginacion ul .disabled{
     background: #c8c8c8;
     display: inline-block;
     padding: 15px 25px;
@@ -57,4 +57,4 @@ h1{
     text-decoration: none;
     background: #3299bb;
 
-} */
+}
